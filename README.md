@@ -1,6 +1,7 @@
 # Ball-Brick-Game
 
-                !! Welcome to the Ball & Brick game using Python !!
+### Read the Instructions carefully below
+
 1. Firstly you need to specify the size of the game environment    
 2. Now yo need to specify the place and value of the bricks
 3. There are the special blocks like DE, B & DS which will destroy the entire row, extends the ball base plate & destroys all the blocks around it respectively
