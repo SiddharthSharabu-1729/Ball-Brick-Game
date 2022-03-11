@@ -16,7 +16,7 @@ To play this game just clone this repository and run ` python ballbrick.py `
 
 ### Below shown is a demo of the game played
 
- 
+ ```
 !! Welcome to the Ball & Brick game using Python !!
 1. Firstly you need to specify the size of the game environment    
 2. Now yo need to specify the place and value of the bricks
@@ -183,9 +183,5 @@ No.of Brick values left:  7
 Ballcount Left:  0
 Sorry
 !!GameOver!!
-You Didn't Won the Game`
-
-
-Here's a sentence with a footnote. [^1]
-
-[^1]: This is the footnote.
+You Didn't Won the Game
+```
