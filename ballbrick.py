@@ -342,7 +342,7 @@ while True :
             print("\nInvalid Option\nPlease Enter a Valid Option LD or ST or RD\n")
             continue
     elif ballcount == 0 and summ != 0 :
-        print("Sorry\n!!GameOver!!\nYou Didn't Won the Game")
+        print("\nSorry\n!!GameOver!!\nYou Didn't Won the Game")
         break
     elif (ballcount != 0 and summ == 0) or (ballcount == 0 and summ == 0) :
         print("\n!!!  Hurray You Won the Game  !!!")
