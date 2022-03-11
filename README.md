@@ -8,16 +8,18 @@ To play this game just clone this repository and run ` python ballbrick.py `
 
 1. Firstly you need to specify the size of the game environment    
 2. Now yo need to specify the place and value of the bricks
-3. There are the special blocks like DE, B & DS which will destroy the entire row, extends the ball base plate & destroys all the blocks around it respectively
-4. If the ball is not placed at the previous position of the ball then ballcount wll be reduced by 1
-5. If the ballcount is 0 and Still bricks are present then you will lose the game
-5. If you can able able to break all the bricks within the balls then you will win the game
+3. There are the special blocks like DE, B & DS which will destroy the entire row, extends the ball base
+   plate & destroys all the blocks around it respectively
+5. If the ball is not placed at the previous position of the ball then ballcount wll be reduced by 1
+6. If the ballcount is 0 and Still bricks are present then you will lose the game
+7. If you can able able to break all the bricks within the balls then you will win the game
 
 
 ### Below shown is a demo of the game played
 
  ```
-!! Welcome to the Ball & Brick game using Python !!
+               !! Welcome to the Ball & Brick game using Python !!
+               
 1. Firstly you need to specify the size of the game environment    
 2. Now yo need to specify the place and value of the bricks
 3. There are the special blocks like DE, B & DS which will destroy the entire row, extends the ball base plate & destroys all the blocks around it respectively
@@ -181,7 +183,9 @@ W       G       G       G       O       G       G       W
 
 No.of Brick values left:  7
 Ballcount Left:  0
+
 Sorry
 !!GameOver!!
 You Didn't Won the Game
+
 ```
