@@ -1,5 +1,12 @@
 # Ball-Brick-Game
 
+### To Play this game 
+
+To play this game just clone this repository and run 
+
+` python ballbrick.py `
+
+
 ### Read the Instructions carefully below
 
 1. Firstly you need to specify the size of the game environment    
