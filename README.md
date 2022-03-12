@@ -2,7 +2,7 @@
 
 ### To Play this game 
 
-To play this game just clone this repository and run ` python ballbrick.py `
+To play this game just clone this repository and run  ` python ballbrick.py `
 
 ### Read the Instructions carefully below
 
